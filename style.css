@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 footer p{
     text-align: center;
     margin: 0;
@@ -15,7 +15,7 @@ footer p{
 .titulo-text{
     display: grid;
     align-items: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 
 .titulo-text h1{
