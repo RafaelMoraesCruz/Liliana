@@ -1,9 +1,33 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 footer p{
     text-align: center;
     margin: 0;
     margin-top: 2%;
 }
+
+.titulo{
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: black;
+    color: white;
+}
+
+.titulo-text{
+    display: grid;
+    align-items: center;
+    font-family: 'Great Vibes', cursive;
+}
+
+.titulo-text h1{
+    font-size: 5rem;
+    font-weight: 300;
+}
+
+.titulo-text p{
+    font-size: 2rem;
+    font-weight: 100;
+}
+
 
 .logo{
     height: 500px;
