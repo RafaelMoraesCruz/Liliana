@@ -39,9 +39,12 @@ footer p{
     border: 0;
 }
 
-.projeto-AR{
+.projeto-AR, .resNascimento, .VLTecidos{
     background-color: black;
+    color: white;
 }
+
+
 
 .carousel-item{
     border-radius: 50%;
